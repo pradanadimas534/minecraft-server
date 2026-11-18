@@ -1,0 +1,29 @@
+# Java Runtime & Binaries
+jre-21/
+ngrok.exe
+playit.exe
+*.exe
+paper.jar
+
+# Minecraft World Data
+world/
+world_nether/
+world_the_end/
+
+# Server Logs & Crash Reports
+logs/
+crash-reports/
+
+# Build & Library Cache
+cache/
+libraries/
+versions/
+.paper-remapped/
+
+# System and Cache files
+usercache.json
+*.zip
+*.tar
+*.tmp
+.DS_Store
+Thumbs.db
