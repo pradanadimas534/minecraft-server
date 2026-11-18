@@ -22,6 +22,8 @@ versions/
 
 # System and Cache files
 usercache.json
+.console_history
+*.old
 *.zip
 *.tar
 *.tmp
